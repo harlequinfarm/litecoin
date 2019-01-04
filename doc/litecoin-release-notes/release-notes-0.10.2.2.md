@@ -1,13 +1,13 @@
 Litecoin Core version 0.10.2.2 is now available from:
 
-  <https://download.litecoin.org/litecoin-0.10.2.2/>
+  <https://download.healthcoin.org/healthcoin-0.10.2.2/>
 
 This is a new major version release, bringing bug fixes and translation 
 updates. It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/litecoin-project/litecoin/issues>
+  <https://github.com/healthcoin-project/healthcoin/issues>
 
 Upgrading and downgrading
 =========================
@@ -18,7 +18,7 @@ How to Upgrade
 If you are running an older version, shut it down. Wait until it has completely
 shut down (which might take a few minutes for older versions), then run the
 installer (on Windows) or just copy over /Applications/Litecoin-Qt (on Mac) or
-litecoind/litecoin-qt (on Linux).
+healthcoind/healthcoin-qt (on Linux).
 
 Downgrade warning
 ------------------
@@ -51,7 +51,7 @@ is included in as separate release-notes.  This section describes the Litecoin-s
 
 Protocol:
 - Scrypt Proof-of-Work instead of sha256d, however block hashes are sha256d for performance reasons.
-- Litecoin TCP port 9333 (instead of 8333)
+- Litecoin TCP port 9814 (instead of 8333)
 - RPC TCP port 9332 (instead of 8332)
 - Testnet TCP port 19333 (instead of 18333)
 - Testnet RPC TCP port 19332 (instead of 18332)
@@ -77,7 +77,7 @@ Notable changes since Litecoin v0.8
 ===================================
 
 - The Block data and indexes of v0.10 are incompatible with v0.8 clients.  You can upgrade from v0.8 but you downgrading is not possible.  For this reason you may want to make a backup copy of your Data Directory.
-- litecoind no longer sends RPC commands.  You must use the separate litecoin-cli command line utility.
+- healthcoind no longer sends RPC commands.  You must use the separate healthcoin-cli command line utility.
 - Watch-Only addresses are now possible.
 
 Credits

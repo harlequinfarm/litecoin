@@ -180,7 +180,7 @@
         <translation>کیف پول رمزگذاری شده است</translation>
     </message>
     <message>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your healthcoins from being stolen by malware infecting your computer.</source>
         <translation>%1 برای اتمام فرایند رمزگذاری بسته خواهد شد. به خاطر داشته باشید که رمزگذاری WALLET شما،  کامپیوتر شما را از آلودگی به بدافزارها مصون نمی دارد.</translation>
     </message>
     <message>
@@ -327,7 +327,7 @@
     </message>
     <message>
         <source>Send coins to a Healthcoin address</source>
-        <translation>ارسال کوین به آدرس litecoin</translation>
+        <translation>ارسال کوین به آدرس healthcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -347,7 +347,7 @@
     </message>
     <message>
         <source>Healthcoin</source>
-        <translation>litecoin</translation>
+        <translation>healthcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -394,7 +394,7 @@
         <translation>نوار ابزار</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <source>Request payments (generates QR codes and healthcoin: URIs)</source>
         <translation>درخواست پرداخت (ساخت کد QR و Healthcoin: URIs)</translation>
     </message>
     <message>
@@ -406,7 +406,7 @@
         <translation>نمایش لیست آدرس‌ها و لیبل‌های دریافتی استفاده شده</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
+        <source>Open a healthcoin: URI or payment request</source>
         <translation>بازکردن Healthcoin: آدرس یا درخواست پرداخت</translation>
     </message>
     <message numerus="yes">
@@ -598,7 +598,7 @@
     </message>
     <message>
         <source>Healthcoin</source>
-        <translation>litecoin</translation>
+        <translation>healthcoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -686,7 +686,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Healthcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه litecoin به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
+        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه healthcoin به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
     </message>
     <message>
         <source>Available:</source>
